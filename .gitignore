@@ -1,0 +1,20 @@
+# Dependências
+node_modules/
+
+# Builds
+frontend/dist/
+backend/backend
+backend/kanban-api
+
+# Dados gerados em execução (o quadro de cada máquina)
+backend/data/
+*.tmp
+
+# Ambiente
+.env
+.env.local
+
+# Editor e sistema
+.DS_Store
+.vscode/
+.idea/
