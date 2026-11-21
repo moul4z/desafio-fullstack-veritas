@@ -172,3 +172,5 @@ Os testes cobrem os principais comportamentos da API e do armazenamento, incluin
 ---
 
 Desenvolvido para o processo seletivo de estágio Full Stack da **Veritas Consultoria Empresarial**.
+
+Portfólio: [moulaz.dev](https://moulaz.dev) · [English](https://moulaz.dev/en/)

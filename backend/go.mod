@@ -1,3 +1,3 @@
-module github.com/daniel-moulaz/desafio-fullstack-veritas/backend
+module github.com/moul4z/desafio-fullstack-veritas/backend
 
 go 1.22
